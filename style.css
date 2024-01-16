@@ -1,0 +1,72 @@
+.section{
+    height: 100vh;
+}
+body{
+    color: white;
+    background-color: grey;
+}
+
+.fa-user{
+    scale: 3;
+}
+
+.fa-map-marker{
+    position: absolute;
+    z-index: 10;
+    scale: 2;
+}
+
+#map{
+    position: relative;
+    z-index: 1;
+    transform: translateX(-500px);
+}
+
+#bp{
+    left: 42%;
+    top: 50%;
+}
+#bbp{
+    left: 20%;
+    top: 47%;
+}
+#bmp{
+    left: 27%;
+    top: 59%;
+}
+#cckp{
+    left: 20%;
+    top: 39%;
+}
+#cp{
+    left: 22%;
+    top: 55%;
+}
+#gp{
+    left: 35%;
+    top: 55%;
+}
+#hp{
+    left: 35%;
+    top: 40%;
+}
+#jp{
+    left: 18%;
+    top: 49%;
+}
+#mpp{
+    left: 35%;
+    top: 60%;
+}
+#op{
+    left: 30%;
+    top: 61%;
+}
+#psp{
+    left: 45%;
+    top: 45%;
+}
+#pp{
+    left: 13%;
+    top: 50%;
+}
